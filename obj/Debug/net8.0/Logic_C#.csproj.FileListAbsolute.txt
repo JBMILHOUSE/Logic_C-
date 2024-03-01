@@ -1,0 +1,14 @@
+/Users/u23322/Documents/Logic_C#/bin/Debug/net8.0/Logic_C#
+/Users/u23322/Documents/Logic_C#/bin/Debug/net8.0/Logic_C#.deps.json
+/Users/u23322/Documents/Logic_C#/bin/Debug/net8.0/Logic_C#.runtimeconfig.json
+/Users/u23322/Documents/Logic_C#/bin/Debug/net8.0/Logic_C#.dll
+/Users/u23322/Documents/Logic_C#/bin/Debug/net8.0/Logic_C#.pdb
+/Users/u23322/Documents/Logic_C#/obj/Debug/net8.0/Logic_C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/u23322/Documents/Logic_C#/obj/Debug/net8.0/Logic_C#.AssemblyInfoInputs.cache
+/Users/u23322/Documents/Logic_C#/obj/Debug/net8.0/Logic_C#.AssemblyInfo.cs
+/Users/u23322/Documents/Logic_C#/obj/Debug/net8.0/Logic_C#.csproj.CoreCompileInputs.cache
+/Users/u23322/Documents/Logic_C#/obj/Debug/net8.0/Logic_C#.dll
+/Users/u23322/Documents/Logic_C#/obj/Debug/net8.0/refint/Logic_C#.dll
+/Users/u23322/Documents/Logic_C#/obj/Debug/net8.0/Logic_C#.pdb
+/Users/u23322/Documents/Logic_C#/obj/Debug/net8.0/Logic_C#.genruntimeconfig.cache
+/Users/u23322/Documents/Logic_C#/obj/Debug/net8.0/ref/Logic_C#.dll
